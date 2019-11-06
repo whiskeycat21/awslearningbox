@@ -1,3 +1,6 @@
+This is just for self learning
+
+
 # awslearningbox
 Learning repository about AWS operation from Python
 
@@ -14,3 +17,11 @@ AWS Configuration is required to update
 ## Running
 
 `pipenv run "list_ec2.py"`
+
+
+### Features
+
+Webotron currently has the following features:
+
+- List bucket
+- List contents of a bucket
